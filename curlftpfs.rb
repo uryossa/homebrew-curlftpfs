@@ -2,6 +2,7 @@ class Curlftpfs < Formula
   desc "Filesystem for accessing FTP hosts based on FUSE and libcurl"
   homepage "https://github.com/bmwiedemann/curlftpfs/"
   url "https://github.com/bmwiedemann/curlftpfs/archive/3f97a8a82c3003ffcf693334365bbd21aa9e3063.zip"
+  version "0.9.3"
   sha256 "b8ae839a4ec61193c9ab85e8e71692bcfb2315c5d3709ed032009dfca767d169"
 
   head "https://github.com/bmwiedemann/curlftpfs.git", :branch => :master
